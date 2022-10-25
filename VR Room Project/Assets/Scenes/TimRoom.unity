@@ -4914,7 +4914,7 @@ GameObject:
   - component: {fileID: 1186327193}
   - component: {fileID: 1186327192}
   m_Layer: 0
-  m_Name: Socket1 (1)
+  m_Name: Socket2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
