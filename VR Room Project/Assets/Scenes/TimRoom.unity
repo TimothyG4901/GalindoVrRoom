@@ -7391,7 +7391,7 @@ MonoBehaviour:
   m_InteractableHoverMeshMaterial: {fileID: 2100000, guid: 284c0adf047530442a7e23b4365615aa, type: 2}
   m_InteractableCantHoverMeshMaterial: {fileID: 0}
   m_SocketActive: 1
-  m_InteractableHoverScale: 10.23
+  m_InteractableHoverScale: 1
   m_RecycleDelayTime: 1
 --- !u!135 &1485612546
 SphereCollider:
